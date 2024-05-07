@@ -1,0 +1,13 @@
+# DepthNet AI: Mapping Dimensions from Images
+
+DepthNet AI is a service designed to estimate depth information from 2D images, generating depth maps that represent the distance of objects from the camera for each pixel.
+
+## Description
+
+DepthNet AI employs deep learning methodologies, specifically convolutional neural networks (CNNs), to infer depth information from individual RGB images. It takes 2D images as input and outputs depth maps, providing an estimation of the scene's geometry in terms of depth or distance for each pixel in the image.
+
+## Usage
+
+To utilize DepthNet AI, adhere to the following steps:
+
+@TODO: Add detailed instructions for installation, model inference, and integration.

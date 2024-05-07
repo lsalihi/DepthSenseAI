@@ -43,5 +43,4 @@ DepthSense AI is licensed under the Apache License 2.0. See the LICENSE file for
 
 ## Contact
 
-For questions, feedback, or support, please contact [email address].
-
+For questions, feedback, or support, please contact salihi.lyazid@gmail.com.
